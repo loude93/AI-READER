@@ -1,0 +1,5 @@
+{
+  "name": "App Inspirator",
+  "description": "Upload a file from an existing application, and this tool will analyze its contents to generate innovative and creative new app ideas inspired by the original.",
+  "requestFramePermissions": []
+}
